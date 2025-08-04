@@ -4,7 +4,7 @@
 💡 Passionate about solving technical problems and building mobile solutions  
 🌱 Currently learning Github usage.  
 📫 How to reach me: behzodmx27@gmail.com  
-
+https://behzodram.github.io/Portfolio/
 #### 🔧 Technical Skills:
 - **Languages**: Java, C++, Python
 - **Mobile**: Android SDK, Retrofit, Room Database  
